@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "672648461612",
+    "project_id": "aprendehc",
+    "storage_bucket": "aprendehc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672648461612:android:10e62a3b6cbf76aa5dc089",
+        "android_client_info": {
+          "package_name": "com.example.aprendehc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672648461612-0f539t8s8obcun975hte7jnk4ep1vglr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aprendehc",
+            "certificate_hash": "646e31f91771b12b0cb667008524b58f2117fae1"
+          }
+        },
+        {
+          "client_id": "672648461612-504lr8fgd7bvr9ilmulhg8674hq0bjcb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGSD_ik7pgoJvd8nPqslaF3W1uva_cMpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672648461612-504lr8fgd7bvr9ilmulhg8674hq0bjcb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
